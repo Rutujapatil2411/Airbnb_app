@@ -1,12 +1,5 @@
 # Airbnb-Inspired Full-Stack Web Application 🚀
 
-<p align="center">
-  <b style="color: blue;  ">Visitor count</b>
-  <br>
-  <a style="" href="https://github.com/adityaastic">
-  <img src="........." />
-  </a>
-</p>
 
 ---
 
